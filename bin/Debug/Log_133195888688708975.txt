@@ -1,0 +1,14 @@
+Log 31/01/2023 2:48:21 am
+-----------------------
+Server started [ 192.168.56.1:8888 ] Waiting for connection...
+-----------------------
+<>
+<> Ejaz  [192.168.56.1:56484] connected!
+<>
+[31/01/2023 2:51:29 am] Ejaz : Hello world 
+-----------------------
+><
+>> Server is turned off
+>< Ejaz  Disconnected...
+-----------------------
+><
